@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CuatroTiposDeMetodo
+comment1.params=
+comment1.target=CuatroTiposDeMetodo()
+comment2.params=
+comment2.target=void\ mi_metodo_no_static()
+comment3.params=
+comment3.target=void\ mi_metodo_static()
+comment4.params=
+comment4.target=int\ mi_metodo_no_static_que_devuelve_un_entero()
+comment5.params=
+comment5.target=int\ mi_metodo_static_que_devuelve_un_entero()
+numComments=6
