@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PedirPorScanner
+comment1.params=
+comment1.target=PedirPorScanner()
+comment2.params=
+comment2.target=java.lang.String\ pedir_numero()
+comment3.params=
+comment3.target=int\ pedir_otro_numero()
+numComments=4
